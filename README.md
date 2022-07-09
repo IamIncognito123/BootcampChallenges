@@ -1,5 +1,4 @@
-# Code Refactor Starter Code
-# <WebPage Search Engine Optimization>
+# WebPage Search Engine Optimization
 
 ## Description
 
